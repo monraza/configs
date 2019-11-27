@@ -1,0 +1,15 @@
+[user]
+	email = monisben.raza@gmail.com
+	name = Monis Ben Raza
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	sh-ap-1 = stash apply stash@{1}
+	sh-ap = stash apply
+	sh = stash
+	last = log -1 HEAD
+	pu = push origin HEAD
+	br-d = branch --sort=-committerdate
+	cia = commit --amend
